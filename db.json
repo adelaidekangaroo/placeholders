@@ -1,12 +1,14 @@
-[
-  {
-    "id": 1,
-    "name": "bulb_1",
-    "type": "bulb"
-  },
-  {
-    "id": 2,
-    "name": "socket_1",
-    "type": "socket"
-  }
-]
+{
+  "devices": [
+    {
+      "id": 1,
+      "name": "bulb_1",
+      "type": "bulb"
+    },
+    {
+      "id": 2,
+      "name": "socket_1",
+      "type": "socket"
+    }
+  ]
+}
